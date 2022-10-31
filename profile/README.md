@@ -1,4 +1,4 @@
-<img align="center" src="./logo-light.png">
+<img align="center" src="https://raw.githubusercontent.com/Two-iVCA/.github/master/profile/logo-light.png">
 <br/>
 <br/>
 <!-- <h1 align="center">Hi 👋, We're Two-i</h1> -->
