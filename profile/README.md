@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/Two-iVCA/.github/master/profile/logo-light.png">
 <!-- <h1 align="center">Hi 👋, We're Two-i</h1> -->
-<h2 align="center">We're a french tech company specialising in Computer Vision technology.</h2>
+<h2 align="center">We're a French Tech company specialising in Computer Vision technology.</h2>
 <br/>
 
 ### 👨‍💻 Here's our website [https://www.two-i.com](https://www.two-i.com)
